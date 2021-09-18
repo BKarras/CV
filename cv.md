@@ -1,15 +1,15 @@
-
- Aug 15, 2021
-
-
-
-I. Personal/Contact Information:
+#I. Personal/Contact Information:
 
 Bryant Thomas Karras, MD
+
 Chief Informatics Officer, Sr. Epidemiologist, 
+
 State of Washington, Department of Health, Public Health Laboratories
+
 1610 NE 150th Street, Seattle (Shoreline), WA 98155-7224
+
 work phone: (206) 418-5540     
+
 bryant.karras@doh.wa.gov   
 
 Affiliate: University of Washington, Seattle, WA
