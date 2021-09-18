@@ -1,10 +1,5 @@
 @import url(fontawesome-all.min.css);
 
-/*
-	Hyperspace by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -4028,7 +4023,7 @@ input, select, textarea {
 			padding: 1.35em 0;
 			position: relative;
 			text-decoration: none;
-			text-transform: uppercase;
+			text-transform: none;
 		}
 
 			#sidebar nav a:before, #sidebar nav a:after {
